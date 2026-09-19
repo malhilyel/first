@@ -14,3 +14,4 @@ def get_github_zen():
 
 if __name__ == "__main__":
     get_github_zen()
+# GPG test
